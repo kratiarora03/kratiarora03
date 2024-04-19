@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2155F7&center=true&vCenter=true&width=435&lines=Hey+!%2C+I%E2%80%99m+Krati Arora;Im++an+Aspiring+Full+Stack+Developer" alt="Typing SVG" /></a>
 - 👀 **I’m a 3rd year FullStack Student**
 - 🌱 I’m currently learning **Frontend , Backend and Deployment**
-- 📫 You can reach me at: **kratiarora789@gmail.com**
+- 📫 Contact me : **kratiarora789@gmail.com**
 
 
 <h3 align="left">Tech: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"></h3>
